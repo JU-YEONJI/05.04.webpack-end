@@ -1,0 +1,22 @@
+$color-aliceblue : aliceblue;
+$font-bold : bold;
+
+body{
+
+    h1{
+        text-align: center;
+        background-color: $color-aliceblue;
+        font-weight: $font-bold;
+    }
+
+    h2{
+        text-align: center;
+        font-weight: $font-bold;
+    }
+
+    p{
+        text-align: center;
+        padding: 40px;
+    }
+
+}
